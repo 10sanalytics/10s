@@ -1,1 +1,1 @@
-this is a test of the post-receive hook.
+this is a test of the github repo push and later pull to webserver.
